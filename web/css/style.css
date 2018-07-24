@@ -1,0 +1,13 @@
+#titre{
+	 text-align: center;
+}
+
+p { color : red;
+    background-color : skyblue;
+}
+#test{
+	color:blue;
+}
+#test:hover{
+	color:red;
+}
